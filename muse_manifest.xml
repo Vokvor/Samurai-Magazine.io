@@ -1,0 +1,111 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SAME.RU" resolutions="1x" timestamp="1588878449241">
+  <folder name="images">
+    <file name="01.jpg" crc="4095333688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04-crop-u298.png" crc="477020923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-crop-u342.jpg" crc="4289666910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-crop-u320.jpg" crc="139921119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-crop-u349.jpg" crc="3843130204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-crop-u433.jpg" crc="9588530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-crop-u447.jpg" crc="3885763797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="09-crop-u426.jpg" crc="3838478520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08-crop-u440.jpg" crc="12527469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10-crop-u454.jpg" crc="171037729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csgo.png" crc="220751185" seo="true" ref="csgo">
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+    </file>
+    <file name="72-726399_download-free-check-icons-and-png-backgrounds-check-u819.png" crc="346986685" ref="csgo"/>
+    <file name="585e4831cb11b227491c338e-u829.png" crc="464834951" ref="csgo"/>
+    <file name="858810753_preview_shield_png1268-u842.png" crc="4093500303" ref="csgo"/>
+    <file name="72-726399_download-free-check-icons-and-png-backgrounds-check-u860.png" crc="346986685" ref="csgo"/>
+    <file name="585e4831cb11b227491c338e-u855.png" crc="464834951" ref="csgo"/>
+    <file name="858810753_preview_shield_png1268-u857.png" crc="4093500303" ref="csgo"/>
+    <file name="72-726399_download-free-check-icons-and-png-backgrounds-check-u897.png" crc="346986685" ref="csgo"/>
+    <file name="585e4831cb11b227491c338e-u892.png" crc="464834951" ref="csgo"/>
+    <file name="858810753_preview_shield_png1268-u894.png" crc="4093500303" ref="csgo"/>
+    <file name="72-726399_download-free-check-icons-and-png-backgrounds-check-u934.png" crc="346986685" ref="csgo"/>
+    <file name="585e4831cb11b227491c338e-u929.png" crc="464834951" ref="csgo"/>
+    <file name="858810753_preview_shield_png1268-u931.png" crc="4093500303" ref="csgo"/>
+    <file name="72-726399_download-free-check-icons-and-png-backgrounds-check-u941.png" crc="346986685" ref="csgo"/>
+    <file name="585e4831cb11b227491c338e-u939.png" crc="464834951" ref="csgo"/>
+    <file name="858810753_preview_shield_png1268-u946.png" crc="4093500303" ref="csgo"/>
+    <file name="72-726399_download-free-check-icons-and-png-backgrounds-check-u955.png" crc="346986685" ref="csgo"/>
+    <file name="585e4831cb11b227491c338e-u957.png" crc="464834951" ref="csgo"/>
+    <file name="858810753_preview_shield_png1268-u951.png" crc="4093500303" ref="csgo"/>
+    <file name="s1200.jpg" crc="474879262" seo="true" ref="slonhack">
+      <caption webpage="slonhack" alt=""/>
+    </file>
+    <file name="expect-3.svg" crc="517772341" seo="true" ref="slonhack">
+      <caption webpage="slonhack" alt=""/>
+    </file>
+    <file name="expect-3_poster_.png" crc="313182743" ref="slonhack"/>
+    <file name="expect-2.svg" crc="476089836" seo="true" ref="slonhack">
+      <caption webpage="slonhack" alt=""/>
+    </file>
+    <file name="expect-2_poster_.png" crc="300554917" ref="slonhack"/>
+    <file name="expect-1.svg" crc="4043164891" seo="true" ref="slonhack">
+      <caption webpage="slonhack" alt=""/>
+    </file>
+    <file name="expect-1_poster_.png" crc="396727979" ref="slonhack"/>
+    <file name="tao_de_libertad_tick-u1261.png" crc="208397427" ref="slonhack"/>
+    <file name="tao_de_libertad_tick-u1264.png" crc="208397427" ref="slonhack"/>
+    <file name="tao_de_libertad_tick-u1293.png" crc="208397427" ref="slonhack"/>
+    <file name="tao_de_libertad_tick-u1296.png" crc="208397427" ref="slonhack"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="354651892" ref="index:pubg-lite:pubg:csgo:pubg-mobile:warface:купить-приватный-чит-на-apex-legends:slonhack"/>
+    <file name="index.css" crc="373114365" ref="index"/>
+    <file name="pubg-lite.css" crc="4193153004" ref="pubg-lite"/>
+    <file name="pubg.css" crc="4193153004" ref="pubg"/>
+    <file name="csgo.css" crc="252915163" ref="csgo"/>
+    <file name="pubg-mobile.css" crc="4193153004" ref="pubg-mobile"/>
+    <file name="warface.css" crc="4193153004" ref="warface"/>
+    <file name="______-_________-___-__-apex-legends.css" crc="4193153004" ref="купить-приватный-чит-на-apex-legends"/>
+    <file name="slonhack.css" crc="156959478" ref="slonhack"/>
+  </folder>
+  <folder name="fonts">
+    <file name="play.woff" crc="474777744"/>
+    <file name="play.eot" crc="230473389"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:csgo:warface:pubg:купить-приватный-чит-на-apex-legends:pubg-mobile:pubg-lite:slonhack"/>
+    <file name="museutils.js" crc="340535759" ref="index:csgo:warface:pubg:купить-приватный-чит-на-apex-legends:pubg-mobile:pubg-lite:slonhack"/>
+    <file name="whatinput.js" crc="86476730" ref="index:csgo:warface:pubg:купить-приватный-чит-на-apex-legends:pubg-mobile:pubg-lite:slonhack"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:csgo:warface:pubg:купить-приватный-чит-на-apex-legends:pubg-mobile:pubg-lite:slonhack"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:csgo:warface:pubg:купить-приватный-чит-на-apex-legends:pubg-mobile:pubg-lite:slonhack"/>
+    <file name="require.js" crc="7928878" ref="index:csgo:warface:pubg:купить-приватный-чит-на-apex-legends:pubg-mobile:pubg-lite:slonhack"/>
+  </folder>
+  <file name="index.html" crc="4204142877" seo="true" mt="1588723430425" redirect="true"/>
+  <file name="csgo.html" crc="3988026090" seo="true" mt="1588877286411" redirect="true"/>
+  <file name="warface.html" crc="4080670114" seo="true" mt="1588718609815" redirect="true"/>
+  <file name="pubg.html" crc="4202109134" seo="true" mt="1588718609815" redirect="true"/>
+  <file name="купить-приватный-чит-на-apex-legends.html" crc="3784881256" seo="true" mt="1588718609815" redirect="true"/>
+  <file name="pubg-mobile.html" crc="145854909" seo="true" mt="1588718609815" redirect="true"/>
+  <file name="pubg-lite.html" crc="220998254" seo="true" mt="1588718609815" redirect="true"/>
+  <file name="slonhack.html" crc="4146349904" seo="true" mt="1588878444706" redirect="true"/>
+</manifest>
